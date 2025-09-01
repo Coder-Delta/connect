@@ -1,2 +1,2 @@
 # connect
-It is Weather web app to chat each other
+It is a web app to chat each other
